@@ -1,3 +1,3 @@
-console.log('aplicação rodando perfeitamente')
+console.log('aplicação rodando com alguns bugs')
 
-console.log('nosso recurso foi finalizado')
+console.log('o recurso foi alterado')
