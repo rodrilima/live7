@@ -1,1 +1,1 @@
-console.log('oi')
+console.log('aplicação rodando perfeitamente')
