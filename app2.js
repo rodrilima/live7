@@ -1,1 +1,1 @@
-console.log('criação de um novo app')
+console.log('geração de um novo app para web')
