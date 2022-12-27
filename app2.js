@@ -1,1 +1,1 @@
-console.log('criação de um novo app')
+console.log('elaboração de um novo app para android')
